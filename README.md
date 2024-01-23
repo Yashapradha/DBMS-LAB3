@@ -1,4 +1,10 @@
+# SQL PROGRAMMING
+___
+
+## Lab program-3
+
 **MOVIE DATABASE**
+
 Consider the schema for Movie Database:
 _`ACTOR` (Act_id, Act_Name, Act_Gender) 
 `DIRECTOR` (Dir_id, Dir_Name, Dir_Phone)
